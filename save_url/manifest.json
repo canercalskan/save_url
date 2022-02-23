@@ -1,0 +1,13 @@
+{
+    "manifest_version" : 3,
+    "version" : "1.0",
+    "name": "SAVE URLS",
+    "description" : "Save url's easily with one click , make comments to remind why you have saved this url and much more!",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon" : "icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
